@@ -21,11 +21,11 @@ September 2022 – June 2023
 AP Computer Science Principles
 
 ## Skills
-Information Technology
-Problem Solving
-Project Management
-Team Collaboration
-Communication
+- Information Technology
+- Problem Solving
+- Project Management
+- Team Collaboration
+- Communication
 
 ## Projects 
 [Phone Data Visualization](https://github.com/ChristopherSnyder159/PhoneVisualization)
