@@ -20,9 +20,12 @@ Database Foundations and Database Design Program SQL
 September 2022 – June 2023
 AP Computer Science Principles
 
-### Skills
+## Skills
 Information Technology
 Problem Solving
 Project Management
 Team Collaboration
 Communication
+
+## Projects 
+[Phone Data Visualization](https://github.com/ChristopherSnyder159/PhoneVisualization)
