@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 # Overview
-I am a High School junior. I am a member of the Information Technology Oracle Academy for my school. 
+I am a High School Senior. I am a member of the Information Technology Oracle Academy for my school. 
 
 
 ## Education
-September 2022 – June 2024
-Java Fundamentals and Java Foundations
+September 2022 – June 2025
+Java Fundamentals, Java Foundations and AP CSA
 
 September 2022 – June 2024
 Database Foundations and Database Design Program SQL
@@ -31,3 +31,7 @@ AP Computer Science Principles
 [Phone Data Visualization](https://github.com/ChristopherSnyder159/PhoneVisualization)
 
 [Space Invaders](https://github.com/ChristopherSnyder159/SpaceInvaders)
+
+[War Card Game](https://github.com/ChristopherSnyder159/War-Card-Game)
+
+[Welcome To Game](https://github.com/ChristopherSnyder159/Welcome-To-Game)
