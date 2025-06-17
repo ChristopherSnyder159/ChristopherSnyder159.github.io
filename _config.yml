@@ -21,7 +21,7 @@ repository               : "ChristopherSnyder159/ChristopherSnyder159.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile pic.png"
   name             : "Christopher Snyder"
   pronouns         : # example: "she/her"  
   bio              : "11th Grade Student at Havre de Grace Highschool"
