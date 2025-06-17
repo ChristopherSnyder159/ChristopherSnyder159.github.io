@@ -9,6 +9,9 @@ redirect_from:
 # Overview
 I am a High School Senior. I am a member of the Information Technology Oracle Academy for my school. 
 
+## Resume
+
+[PDF](https://hcps365-my.sharepoint.com/personal/christophersnyder1_student_hcps_org/Documents/resume.pdf)
 
 ## Education
 September 2022 – June 2025
