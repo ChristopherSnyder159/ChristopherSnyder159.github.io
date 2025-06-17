@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-author_profile: true
+author_profile: ![image](https://github.com/user-attachments/assets/cdf7961f-c841-4442-aead-bf4d9b173df6)
 redirect_from: 
   - /about/
   - /about.html
